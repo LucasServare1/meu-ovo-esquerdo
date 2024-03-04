@@ -2,6 +2,7 @@
     --cor-de-fundo:#260029;
     --texto: #ffffff;
     --cor-4: #A62424;
+    --rea:#EAC505;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -16,6 +17,9 @@ header{
     justify-content: space-around;
 }
 
-body span{
+body.kkk{
     color: var(--cor-4);
+}
+body.hhh{
+    color: var(--rea);
 }
