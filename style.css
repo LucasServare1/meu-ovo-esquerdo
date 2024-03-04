@@ -1,8 +1,10 @@
 :root{
     --cor-de-fundo:#0d000e;
+    --texto: white;
 }
 body{
     background-color: var(--cor-de-fundo);
+    color: var(--texto);
 }
 img{
     width: 10%;
