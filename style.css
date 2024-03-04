@@ -17,9 +17,9 @@ header{
     justify-content: space-around;
 }
 
-body.kkk{
+body span.kkk{
     color: var(--cor-4);
 }
-body.hhh{
+body span.hhh{
     color: var(--rea);
 }
