@@ -4,7 +4,7 @@
     --cor-4: #A62424;
     --rea:#EAC505;
 }
-body{
+h1{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
 }
