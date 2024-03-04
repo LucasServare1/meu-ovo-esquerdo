@@ -1,6 +1,7 @@
 :root{
     --cor-de-fundo:#260029;
-    --texto: white;
+    --texto: #ffffff;
+    --cor-4: #A62424;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -13,4 +14,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+body span{
+    color: var(--cor-4);
 }
