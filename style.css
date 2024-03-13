@@ -9,7 +9,7 @@ h1{
     color: var(--texto);
 }
 img{
-    width: 20%;
+    width: 50%;
 }
 header{
     display: flex;
@@ -24,6 +24,6 @@ body span.hhh{
     color: var(--rea);
 }
 
-#hotel-um {
+#hotel-um{
     width: 50%;
 }
