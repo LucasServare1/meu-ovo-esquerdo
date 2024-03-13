@@ -8,9 +8,7 @@ h1{
     background-color: var(--cor-de-fundo);
     color: var(--texto);
 }
-img{
-    width: 50%;
-}
+
 header{
     display: flex;
     align-items: center;
