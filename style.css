@@ -27,6 +27,7 @@ body span.hhh{
 }
 
 .introdução{
+    border-radius: 78px;
     display: flex;
     background-color: gray;
     padding: revert;
