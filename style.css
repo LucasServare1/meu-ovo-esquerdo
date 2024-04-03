@@ -41,6 +41,7 @@ body {
   font-style: normal;
 }
 .equipe{
+    margin-top: 75px;
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
