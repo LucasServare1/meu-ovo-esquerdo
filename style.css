@@ -35,6 +35,17 @@ body span.hhh{
     border: 7px solid pink;
 }
 
+.Shrek{
+   margin-top: 75px; 
+   border-radius: 78px;
+   display: flex;
+   background-color: gray;
+   padding: revert;
+   border: 7px solid pink;
+
+}
+
+
 body {
     font-family: "Archivo Black", sans-serif;
   font-weight: 400;
