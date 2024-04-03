@@ -25,7 +25,9 @@ body span.hhh{
 .Hotel-um{
     width: 20%;
     border-radius: 75px;
+    padding-right: 20px;
 }
+
 
 .introdução{
     border-radius: 78px;
@@ -47,8 +49,10 @@ body span.hhh{
 
 .shrek-um{
     width: 20%;
-    border-radius: 75px;   
-}
+    border-radius: 75px;
+    padding-right: 20px;
+}   
+
 
 body {
     font-family: "Archivo Black", sans-serif;
