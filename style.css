@@ -45,7 +45,7 @@ body span.hhh{
     border-radius: 78px;
     display: grid;
     padding: revert;
-    border: 7px solid pink;
+margin-top: 5%;
     grid-template-columns: 45% 10% 45%;
 }
 
