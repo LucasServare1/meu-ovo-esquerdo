@@ -43,9 +43,10 @@ body span.hhh{
 
 #introdução{
     border-radius: 78px;
-    display: flex;
+    display: grid;
     padding: revert;
     border: 7px solid pink;
+    grid-template-columns: 45% 10% 45%;
 }
 
 .Shrek{
