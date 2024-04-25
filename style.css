@@ -41,7 +41,7 @@ body span.hhh{
 }
 
 
-#introdução{
+.introdução{
     border-radius: 78px;
     display: grid;
     padding: revert;
