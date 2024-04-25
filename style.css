@@ -72,8 +72,14 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+
+.Margem{
+    margin-left: 827px;
+    margin-top: 30px;
+}
+
 #equipe{
-   margin: 75px 0;
+   margin: 50px 0 0;
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
