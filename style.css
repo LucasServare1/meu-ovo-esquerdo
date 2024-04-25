@@ -45,7 +45,6 @@ body span.hhh{
 #introdução{
     border-radius: 78px;
     display: flex;
-    background-color: gray;
     padding: revert;
     border: 7px solid pink;
 }
@@ -101,4 +100,6 @@ body {
 
 .esp{
     display: flex;
+    background-color: gray;
+    border-radius: 71px;
 }
